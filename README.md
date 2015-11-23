@@ -17,3 +17,7 @@ This very first version comes with 7 cmdlets.
     Get-SWSpecies
     Get-SWstarship
     Get-SWVehicule
+    
+  #What's next
+  Add native image support w/ runspaces
+  
